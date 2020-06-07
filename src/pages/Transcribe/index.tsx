@@ -711,7 +711,7 @@ class Transcribe extends React.Component<IProps, IState> {
               url={
                 locale === 'ar'
                   ? 'https://vimeo.com/370590893'
-                  : 'https://vimeo.com/370577872'
+                  : 'https://vimeo.com/426710520'
               }
               width="100%"
               height="100%"
