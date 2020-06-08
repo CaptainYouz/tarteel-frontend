@@ -1,0 +1,6 @@
+.git/
+node_modules/
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore

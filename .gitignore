@@ -52,3 +52,8 @@ package-lock.json
 *.swp
 *.swo
 
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
